@@ -1,0 +1,1 @@
+<h1>well this is going to be a practice repository for learning JS</h1>
