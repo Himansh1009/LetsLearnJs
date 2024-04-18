@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../lastjsrahulsiir"
+		},
+		{
+			"path": "../../../fornow/IT"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Javascript"
+	}
+}
