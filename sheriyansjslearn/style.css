@@ -36,5 +36,9 @@ html , body{
     border: 1px solid #0a0a23;
     padding: 5px;
     color: #ffffff;
-    background: +c70d0d;
+    background: #c70d0d;
+    display: none;
+}
+.stat{
+    padding-right:10px;
 }
